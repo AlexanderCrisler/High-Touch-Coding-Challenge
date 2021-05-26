@@ -1,0 +1,16 @@
+C:\Users\alexc\Documents\Programming\C# test\bin\Debug\net5.0\C# test.exe
+C:\Users\alexc\Documents\Programming\C# test\bin\Debug\net5.0\C# test.deps.json
+C:\Users\alexc\Documents\Programming\C# test\bin\Debug\net5.0\C# test.runtimeconfig.json
+C:\Users\alexc\Documents\Programming\C# test\bin\Debug\net5.0\C# test.runtimeconfig.dev.json
+C:\Users\alexc\Documents\Programming\C# test\bin\Debug\net5.0\C# test.dll
+C:\Users\alexc\Documents\Programming\C# test\bin\Debug\net5.0\ref\C# test.dll
+C:\Users\alexc\Documents\Programming\C# test\bin\Debug\net5.0\C# test.pdb
+C:\Users\alexc\Documents\Programming\C# test\obj\Debug\net5.0\C# test.csprojAssemblyReference.cache
+C:\Users\alexc\Documents\Programming\C# test\obj\Debug\net5.0\C# test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\Documents\Programming\C# test\obj\Debug\net5.0\C# test.AssemblyInfoInputs.cache
+C:\Users\alexc\Documents\Programming\C# test\obj\Debug\net5.0\C# test.AssemblyInfo.cs
+C:\Users\alexc\Documents\Programming\C# test\obj\Debug\net5.0\C# test.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Documents\Programming\C# test\obj\Debug\net5.0\C# test.dll
+C:\Users\alexc\Documents\Programming\C# test\obj\Debug\net5.0\ref\C# test.dll
+C:\Users\alexc\Documents\Programming\C# test\obj\Debug\net5.0\C# test.pdb
+C:\Users\alexc\Documents\Programming\C# test\obj\Debug\net5.0\C# test.genruntimeconfig.cache
